@@ -13,7 +13,7 @@ is a palindrome.
 Programmer - Ashley Jacobson
 Tester - Giannfranco Brance
 
-Group Project C //
+Group Project C 
 Members 
 Ashley Jacobson,
 Giannfranco Brance,
